@@ -1,0 +1,18 @@
+[submodule "chronicler-core"]
+	path = chronicler-core
+	url = git@github.com:aetheric/chronicler-core.git
+[submodule "chronicler-persist"]
+	path = chronicler-persist
+	url = git@github.com:aetheric/chronicler-persist.git
+[submodule "chronicler-reactor"]
+	path = chronicler-reactor
+	url = git@github.com:aetheric/chronicler-reactor.git
+[submodule "chronicler-rest"]
+	path = chronicler-rest
+	url = git@github.com:aetheric/chronicler-rest.git
+[submodule "chronicler-angular-mocks"]
+	path = chronicler-angular-mocks
+	url = git@github.com:aetheric/chronicler-angular-mocks.git
+[submodule "chronicler-angular"]
+	path = chronicler-angular
+	url = git@github.com:aetheric/chronicler-angular.git
