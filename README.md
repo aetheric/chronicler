@@ -44,4 +44,4 @@ Not accessible by anyone but application administrators and moderators, this sec
 
 ## External Links
 
-"Chronicler on Google+":https://plus.google.com/100072512339103581912
+[Chronicler on Google+](https://plus.google.com/100072512339103581912)
